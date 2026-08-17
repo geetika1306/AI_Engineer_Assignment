@@ -1,0 +1,20 @@
+{
+    "total_records": 1000,
+    "github": {
+        "matched": 23,
+        "unmatched": 977,
+        "stars_available": 23
+    },
+    "confidence_distribution": {
+        "1.0": 23,
+        "0.0": 977
+    },
+    "sources": {
+        "arXiv": 1000
+    },
+    "missing_fields": {
+        "title": 0,
+        "authors": 0,
+        "abstract": 0
+    }
+}
